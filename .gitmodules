@@ -1,0 +1,6 @@
+[submodule "modules/discord-webhook"]
+	path = modules/discord-webhook
+	url = git@github.com:RescueRush/discord-webhook.git
+[submodule "modules/PCLib"]
+	path = modules/PCLib
+	url = git@github.com:UnKabaraQuiDev/PCLib.git
